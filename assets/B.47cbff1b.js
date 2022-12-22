@@ -1,0 +1,1 @@
+import{d as t,c as o,b as e,t as n,u as a,F as l,i as c,o as r}from"./index.8293cb9c.js";const _=e("h4",null,"B\u7EC4\u4EF6",-1),u=e("h4",{style:{color:"var(--hq)"}},"lq",-1),d=t({__name:"B",setup(i){let s=c("hqlsx");return console.log(s),(h,m)=>(r(),o(l,null,[_,e("h6",null,n(a(s)),1),u],64))}});export{d as default};
