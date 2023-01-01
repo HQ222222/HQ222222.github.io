@@ -1,0 +1,1 @@
+import{d as o,c as t,o as n,F as s,b as e}from"./index.d0ea501e.js";const a=e("h4",null,"B\u7EC4\u4EF6",-1),l=e("h6",null,null,-1),c=e("h4",{style:{color:"var(--hq)"}},"lq",-1),d=o({__name:"B",setup(_){return(r,u)=>(n(),t(s,null,[a,l,c],64))}});export{d as default};
